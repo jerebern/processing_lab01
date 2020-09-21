@@ -1,4 +1,5 @@
-int nbMovers = 25;
+//Jeremy Bernard 21/09/2020
+int nbMovers = 50;
 float WindForce;
 Liquid water;
 Mover[] movers;
